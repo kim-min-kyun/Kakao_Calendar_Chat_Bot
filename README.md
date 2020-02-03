@@ -18,13 +18,13 @@ Needed
           
           1. Kakao Channel and Chat-Bot based channel (https://i.kakao.com/login) 
 
-	 *Also you need to interlock channel and bot
+	 	*Also you need to interlock channel and bot
 
-	 (Guide : 'https://business.kakao.com/info/kakaotalkchannel/#document')
+	 	(Guide : 'https://business.kakao.com/info/kakaotalkchannel/#document')
           
           2. Make Google-Calendar and get google API key
 	 
-	 (Guide : 'https://codedragon.tistory.com/6500')
+	 	(Guide : 'https://codedragon.tistory.com/6500')
           
           3. Amazon Web Service Account
 
